@@ -1,3 +1,4 @@
+;In collaboration with Will Argus
 (def vocabulary '(call me ishmael))
 (def theta1 (list (/ 1 2 ) (/ 1 4 ) (/ 1 4 )))
 (def theta2 (list (/ 1 4 ) (/ 1 2 ) (/ 1 4 )))
